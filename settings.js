@@ -13,5 +13,5 @@ exports.listId = null;
 exports.templateId = null;
 
 // receive an email when a new signup is confirmed
-exports.sendNotification = true;
+exports.sendNotification = false;
 exports.notificationEmail = "admin@example.com";
